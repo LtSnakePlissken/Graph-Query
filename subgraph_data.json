@@ -3,7 +3,5 @@
     "Q Blockchain": "http://162.244.80.145:8000/subgraphs/name/elkfinance-q/"
   },
   "addresses": {
-    "Shylo-Trezor": "0xB2312009bEd27B5962169586129fF55b185129e2",
-    "Shylo-Hotwallet": "0x5918644832c9C9F4e53470B83E460195FFA0ef51"
   }
 }
